@@ -12,7 +12,7 @@
 10. cd ..
     cd Year1 
     rm [OOP or IntroductionToComputation]
-    mv [OOP or IntroductionToComputation]
+    mv [OOP or IntroductionToComputation] ..
 11. cd ..
     cd AT
     rm -rm F7
