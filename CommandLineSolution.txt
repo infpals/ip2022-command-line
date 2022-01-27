@@ -12,11 +12,14 @@
 10. cd ..
     cd Year1 
     rm [OOP or IntroductionToComputation]
+    mv [OOP or IntroductionToComputation]
 11. cd ..
     cd AT
     rm -rm F7
-12. nano Me.txt
+12. cd ..
+    mv AT AppletonTower
+13. nano Me.txt
     Hello I'm an Informatics Student and I'm proud of it!:)
     Option O or Ctrl O
     Option X or Ctrl X
-13. cd .. rm -rf InformaticsStudent
+14. cd .. rm -rf InformaticsStudent
